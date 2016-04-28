@@ -31,8 +31,8 @@
             <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
         </config-file>
 
-        <source-file src="src/android/sqlDB.java" target-dir="src/edotritchie/plugins/sqlDB/" />
-        <source-file src="src/android/DatabaseHelper.java" target-dir="src/edotritchie/plugins/sqlDB/" />
+        <source-file src="src/android/sqlDB.java" target-dir="src/edotritchie/plugins/sqlDB/sqlDB" />
+        <source-file src="src/android/DatabaseHelper.java" target-dir="src/edotritchie/plugins/sqlDB/sqlDB" />
 
     </platform>
 
