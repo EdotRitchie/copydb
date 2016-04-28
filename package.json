@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/an-rahulpandey/cordova-plugin-dbcopy.git"
+    "url": "https://github.com/EdotRitchie/copydb.git"
   },
   "keywords": [
     "sqlite db copy",
@@ -32,7 +32,7 @@
   "author": "Rahul Pandey",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/an-rahulpandey/cordova-plugin-dbcopy/issues"
+    "url": "ttps://github.com/EdotRitchie/copydb/issues"
   },
-  "homepage": "https://github.com/an-rahulpandey/cordova-plugin-dbcopy"
+  "homepage": "https://github.com/EdotRitchie/copydb"
 }
