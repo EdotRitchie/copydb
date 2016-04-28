@@ -38,7 +38,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 		//InputStream myInput = myContext.getAssets().open("www/"+sqlDB.dbname);
         String yourFilePath = myContext.getFilesDir() + "/" + "AllAssets.db";
         File yourFile = new File(yourFilePath);
-        InputStream myInput = new FileInputStream(initialFile);
+        InputStream myInput = new FileInputStream(yourFile);
         //InputStream myInput = myContext.getAssets().open("www/"+sqlDB.dbname);   
 		OutputStream myOutput = new FileOutputStream(database);
 		byte[] buffer = new byte[1024];
