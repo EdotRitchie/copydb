@@ -1,4 +1,4 @@
-package me.rahul.plugins.sqlDB;
+package edotritchie.plugins.sqlDB.sqlDB;
 
 import java.io.File;
 import java.io.FileOutputStream;
